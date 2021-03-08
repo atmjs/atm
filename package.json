@@ -1,0 +1,26 @@
+{
+  "name": "atm",
+  "version": "0.8.1",
+  "description": "typescript rollup babel eslint prettier cli",
+  "main": "index.js",
+  "bin": {
+    "atm": "./bin/index.js"
+  },
+  "scripts": {
+    "dev": "tsc -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/atmjs/atm.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/atmjs/atm/issues"
+  },
+  "homepage": "https://github.com/atmjs/atm#readme",
+  "devDependencies": {
+    "typescript": "^4.2.3"
+  }
+}
